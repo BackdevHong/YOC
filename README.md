@@ -10,5 +10,5 @@ pie title Year Commit's
 ```
 ```mermaid
 pie title Year Created Repositorie's
-    "2022" : 33
+    "2022" : 11
 ```
