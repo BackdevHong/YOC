@@ -8,10 +8,10 @@ Year Of Commit - 1년간 한 커밋과 만든 레포 수를 그래프로 정리�
 ```mermaid
 pie title Year Commit's
     "2022" : 767
-    "2023" : 0
+    "2023" : 101
 ```
 ```mermaid
 pie title Year keep Repositorie's
     "2022" : 20
-    "2023" : 0
+    "2023" : 16
 ```
